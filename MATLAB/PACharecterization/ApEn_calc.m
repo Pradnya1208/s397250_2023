@@ -1,4 +1,4 @@
-folder_path = 'fsk_data4/';
+folder_path = 'time_new/';
 %cd(folder_path);
 
 file_list = dir(fullfile(folder_path, '*.csv'));
